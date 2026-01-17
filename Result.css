@@ -1,0 +1,37 @@
+body{
+  font-family: Arial;
+  background: #dbdada;
+}
+
+table{
+  width: 80%;
+  max-width: 400px;
+  margin: 100px auto;
+  border-collapse: collapse;
+  background: white;
+}
+
+th, td{
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+th{
+  background: #222;
+  color: white;
+  text-align: center;
+}
+
+.pass{
+  color: green;
+  font-weight: bold;
+}
+
+div{
+  color: white;;
+  padding: 7px;
+  text-align: center;
+  border: 1px solid black;
+  text-decoration: none;
+}
